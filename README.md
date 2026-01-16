@@ -47,4 +47,4 @@ Projeyi bilgisayarınıza indirdikten sonra terminalde şu adımları izleyin:
 *(Uygulamanın ekran görüntülerini buraya ekleyebilirsiniz)*
 
 ---
-👨‍💻 **Geliştirici:** [İlker Seref İpek]
+👨‍💻 **Geliştirici:** [İlker İpek]
